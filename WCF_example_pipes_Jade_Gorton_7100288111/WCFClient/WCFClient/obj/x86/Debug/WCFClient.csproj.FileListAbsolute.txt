@@ -1,0 +1,11 @@
+C:\Users\student\Desktop\WCFClient\WCFClient\bin\Debug\WCFClient.exe
+C:\Users\student\Desktop\WCFClient\WCFClient\bin\Debug\WCFClient.pdb
+C:\Users\student\Desktop\WCFClient\WCFClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\student\Desktop\WCFClient\WCFClient\obj\x86\Debug\WCFClient.exe
+C:\Users\student\Desktop\WCFClient\WCFClient\obj\x86\Debug\WCFClient.pdb
+C:\Users\Owner\Downloads\WCF_example_pipes_Jade_Gorton_7100288111\WCF_example_pipes_Jade_Gorton_7100288111\WCFClient\WCFClient\bin\Debug\WCFClient.exe
+C:\Users\Owner\Downloads\WCF_example_pipes_Jade_Gorton_7100288111\WCF_example_pipes_Jade_Gorton_7100288111\WCFClient\WCFClient\bin\Debug\WCFClient.pdb
+C:\Users\Owner\Downloads\WCF_example_pipes_Jade_Gorton_7100288111\WCF_example_pipes_Jade_Gorton_7100288111\WCFClient\WCFClient\obj\x86\Debug\WCFClient.csproj.AssemblyReference.cache
+C:\Users\Owner\Downloads\WCF_example_pipes_Jade_Gorton_7100288111\WCF_example_pipes_Jade_Gorton_7100288111\WCFClient\WCFClient\obj\x86\Debug\WCFClient.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Downloads\WCF_example_pipes_Jade_Gorton_7100288111\WCF_example_pipes_Jade_Gorton_7100288111\WCFClient\WCFClient\obj\x86\Debug\WCFClient.exe
+C:\Users\Owner\Downloads\WCF_example_pipes_Jade_Gorton_7100288111\WCF_example_pipes_Jade_Gorton_7100288111\WCFClient\WCFClient\obj\x86\Debug\WCFClient.pdb

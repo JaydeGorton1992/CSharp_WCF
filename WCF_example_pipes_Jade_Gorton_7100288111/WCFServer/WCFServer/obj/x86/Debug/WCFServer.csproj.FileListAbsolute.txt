@@ -1,0 +1,11 @@
+C:\Users\student\Desktop\WCFServer\WCFServer\bin\Debug\WCFServer.exe
+C:\Users\student\Desktop\WCFServer\WCFServer\bin\Debug\WCFServer.pdb
+C:\Users\student\Desktop\WCFServer\WCFServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\student\Desktop\WCFServer\WCFServer\obj\x86\Debug\WCFServer.exe
+C:\Users\student\Desktop\WCFServer\WCFServer\obj\x86\Debug\WCFServer.pdb
+C:\Users\Owner\Downloads\WCF_example_pipes_Jade_Gorton_7100288111\WCF_example_pipes_Jade_Gorton_7100288111\WCFServer\WCFServer\bin\Debug\WCFServer.exe
+C:\Users\Owner\Downloads\WCF_example_pipes_Jade_Gorton_7100288111\WCF_example_pipes_Jade_Gorton_7100288111\WCFServer\WCFServer\bin\Debug\WCFServer.pdb
+C:\Users\Owner\Downloads\WCF_example_pipes_Jade_Gorton_7100288111\WCF_example_pipes_Jade_Gorton_7100288111\WCFServer\WCFServer\obj\x86\Debug\WCFServer.csproj.AssemblyReference.cache
+C:\Users\Owner\Downloads\WCF_example_pipes_Jade_Gorton_7100288111\WCF_example_pipes_Jade_Gorton_7100288111\WCFServer\WCFServer\obj\x86\Debug\WCFServer.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Downloads\WCF_example_pipes_Jade_Gorton_7100288111\WCF_example_pipes_Jade_Gorton_7100288111\WCFServer\WCFServer\obj\x86\Debug\WCFServer.exe
+C:\Users\Owner\Downloads\WCF_example_pipes_Jade_Gorton_7100288111\WCF_example_pipes_Jade_Gorton_7100288111\WCFServer\WCFServer\obj\x86\Debug\WCFServer.pdb
